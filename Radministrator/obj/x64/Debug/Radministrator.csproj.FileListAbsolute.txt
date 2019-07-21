@@ -1,0 +1,14 @@
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\bin\x64\Debug\Radministrator.exe.config
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\bin\x64\Debug\Radministrator.exe
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\bin\x64\Debug\Radministrator.pdb
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.About.resources
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.AddorEditIP.resources
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.FormForThrough.resources
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.LookUp.resources
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.MainWindow.resources
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.Properties.Resources.resources
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.Settings.resources
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.csproj.GenerateResource.cache
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.csproj.CoreCompileInputs.cache
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.exe
+E:\Business Stuff\Work at Bazaar 2017 Dec - 2018 Jun\Radministrator\Radministrator\obj\x64\Debug\Radministrator.pdb
